@@ -34,7 +34,7 @@ nameInput.onkeyup = (event) => {
     }
 }
 
-// Evento de clique no botão Limpar
+
 clearButton.onclick = () => {
     clearFields();
 }
